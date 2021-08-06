@@ -1,0 +1,42 @@
+#banner{
+	width:	100%;
+}
+
+#paragraph{
+	font-size: 120%;
+	line-height: 30px;
+	text-align: center;
+	font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+#background{
+	background-color: lightgrey;
+	padding: 4%;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#topbanner{
+	display: flex;
+}
+
+h1{
+	position: absolute;
+	font-size: 200%;
+	color: lightgrey;
+	top: 10%;
+	left: 60%;
+}
+
+h3{
+	font-size: 200%;
+	padding: 30px;
+	background-color: black;
+	width: 10%;
+	color: white;
+	text-align: center;
+	border-radius: 25px;
+}
